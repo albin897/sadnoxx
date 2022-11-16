@@ -1,11 +1,14 @@
 # NOXTRXYZ'S PROFILE  <img src="https://media3.giphy.com/media/jqHmOFjIb9KV09DOPB/giphy.gif" width="50">
 
 Hi, I'm Albin, I'm 19 and I am from India.
+
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 <br>
 I'm passionated about android app development and website development. I'm also fascinated by machine learning and AI.
 <br>
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary>
