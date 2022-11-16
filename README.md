@@ -5,6 +5,8 @@ Hi, I'm Albin, I'm 19 and I am from India.
 I'm passionated about android app development and website development. I'm also fascinated by machine learning and AI.
 <br>
 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 <!-- Stats -->
 <details><summary><b>My stats</b></summary>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noxtrxyz&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
