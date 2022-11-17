@@ -22,6 +22,8 @@ I'm passionated about android app development and website development. I'm also 
 <details><summary><b>Contact me</b></summary>
     <ul>
         <li><strong>Twitter :</strong> <code>@noxtrxyz</code></li>
+                <li><strong>Instagram :</strong> <code>@im_noxtrxyz</code></li>
+
     </ul>
     
 <!--**Join the Discord server !**
