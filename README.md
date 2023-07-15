@@ -3,13 +3,13 @@
 I am an Android Developer.
 --------------------------
 
-# *   🌍   I'm based in Banglore, India.
-# *   🧠  Currently learning Web Development.
-# *   🤝  I'm open to collaborating on interesting projects as a developer
+*   🌍   I'm based in Banglore, India.
+*   🧠  Currently learning Web Development.
+*   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Languages Known
 
-# - Java, Kotlin, C, Python, C#.
+- Java, Kotlin, C, Python, C#.
 
   
 ### Socials
